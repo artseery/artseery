@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm Vue.js developer... kindo✨
 
 <!--
 **RanetkaGod/RanetkaGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
