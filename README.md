@@ -1,4 +1,4 @@
-### Vue.js developer... ish✨
+### Frontend developer... ish✨
 
 <!--
 **RanetkaGod/RanetkaGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
